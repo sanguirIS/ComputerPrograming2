@@ -1,0 +1,13 @@
+Procedure:
+1. Create a folder named LastName_FirstName (ex. Reyes_Mark) in your local drive.
+2. Create a new Java application project named LabExer1B. Set the project location to your own
+folder. 3
+. The program should ask an integer from the user. This should be performed by the main method.
+4. Construct three (3) methods named showNumberPlus10(), showNumberPlus100(), and showNumberPlus1000(). Each method should perform the task its name implies.
+5. Call the methods after the user input to display three (3) outputs in separate lines.
+6. Inform your instructor once you are done.
+Sample Run:
+Enter an integer: 20
+20 plus 10 is 30.
+20 plus 100 is 120.
+20 plus 1000 is 1020.

@@ -1,0 +1,26 @@
+1. Create a folder named LastName_FirstName (ex. Reyes_Mark) in your local drive.
+2. Create a new Java application project named LabExer1A. In the Create Main Class field, the text should be labexer1a.Lab Exer1A. Set the project location to your own folder.
+3. Initialize four (4) variables based on the table below.
+Data Type
+Variable Name
+int
+faveNumber
+Type your favorite number.
+String
+faveCartChar
+Type your favorite cartoon or anime character.
+char
+mi
+Type your middle initial.
+char (array)
+nickNameArray
+Value
+Every index should contain each of the letters of your nickname.
+4.
+Create a code that would produce an output similar to the sample below by indicating variable names in System.out.println(). The statements should be written inside the main method.
+12 is my favorite number.
+I love Doraemon!
+My name is Veronica V. Velasquez.
+You can call me Nica.
+5. Use comments to give a short description of the parts of the program. Note: Use // for single-line comments and /* */ for multi-line comments.
+6. Inform your instructor once you are done.

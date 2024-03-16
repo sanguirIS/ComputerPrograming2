@@ -1,0 +1,30 @@
+1. Create a folder named LastName_FirstName (ex. Reyes_Mark) in your local drive.
+2. Create a project named LabExer2. Set the project location to your own folder.
+3. Construct a simple purchasing program based on the UML Class Diagram below.
+LabExer2
+itemName: String
+itemPrice: double
+itemQuantity: int
+amountDue: double
++ setItemName(String newItemName): void
++ setTotalCost (int quantity, double price): void
++ getItemName(): String
++ getTotalCost(): double
++ readInput(): void
++ writeOutput(): void
+Note: The readInput() method will be used to accept user input through the Scanner class. This is
+done by:
+a. Writing import java.util.*; on top of the code, before the line for the class name
+b. Instantiating an object of the Scanner class, Scanner s = new Scanner (System.in);
+c. Storing the input to the variable name based on data type
+For String: s.nextLine()
+For int: s.nextInt()
+For double: s.nextDouble()
+The writeOutput() method will be used to display an output similar to the sample below. You are purchasing 3 bag(s) at 1,745.5 each.
+4. Inform your instructor once you are done.
+Sample output:
+Enter the name of the item you are purchasing.
+bag
+Enter the quantity and price separated by a space.
+3 1475.50
+You are purchasing 3 bag(s) at 1475.5 each.

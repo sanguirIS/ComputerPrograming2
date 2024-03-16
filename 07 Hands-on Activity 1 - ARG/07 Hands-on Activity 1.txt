@@ -1,0 +1,11 @@
+Create four (4) Java classes named Color, Model, CamellaHome, and CamellaHomeDemo.
+In the Color class, create an enum named Color that consists of six (6) colors of your choice.
+In the Model class, create an enum named Model that contains the following values: GRETA, FREYA, ELLA, and DANA.
+In the CamellaHome class, declare three (3) private fields:
+int variable named year
+A Model object named model
+A Color model named color
+Add a constructor for the CamellaHome class with three (3) parameters: yr (int), model (Model), and color (Color). Inside the constructor, assign yr to year, m to model, and c to color.
+Add a display( ) method that prints the three (3) CamellaHome object's data.
+In the main method of the CamellaHomeDemo class, instantiate two (2) CamellaHome objects assigning values to them using enumeration values for the models and colors. Example: CamellaHome car1 = new CamellaHome(2014, Model.GRETA, Color.RED);
+Add two (2) statements to display the data of the two (2) CamellaHome objects.

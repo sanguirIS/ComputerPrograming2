@@ -1,0 +1,18 @@
+Create a Java program that asks the user to input a student number. The format of the student number is a sequence of the following:
+
+Four (4) digits
+A dash
+Two (2) digits
+A dash
+Three (3) digits
+Display a welcome message if the student number is valid; otherwise, show an appropriate error message. Do not copy the welcome message in the sample output.
+
+ 
+
+Sample Output:
+
+Enter your student number: 2018-10-013
+
+You have successfully logged in.
+
+Welcome to your new dashboard!

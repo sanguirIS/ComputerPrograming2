@@ -1,0 +1,30 @@
+Create a generic class called TriPrism. It shall store the dimensions of a triangular prism and calculate its volume. The type of the dimensions will be decided upon instantiation of the TriPrism objects. Use the formula: volume = length * (0.5 * base * height)
+
+Create a generic class called TriPism. 
+Declare three (3) private variables named length, base, and height.
+Add three (3) pairs of getters and setters to retrieve and set the values of the variables mentioned above.
+Create another class named TriPrismDemo.
+In its main method, instantiate two (2) TriPrism objects named tp1 (Integer) and tp2 (Double).
+Use the setter methods to set the values of the dimensions. 
+Calculate and display the volume of the two (2) TriPrism objects using the getter methods. Refer to the formula provided above.
+Sample Output:
+
+Triangular Prism 1
+
+Length: 10
+
+Base: 7
+
+Height: 5
+
+The volume of the triangular prism is 175.0.
+
+Triangular Prism 2
+
+Length: 9.10
+
+Base: 6.25
+
+Height: 4.20
+
+The volume of the triangular prism is 119.4375.

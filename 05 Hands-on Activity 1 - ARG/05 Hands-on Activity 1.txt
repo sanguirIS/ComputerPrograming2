@@ -1,0 +1,28 @@
+Procedure:
+1. Create a folder named LastName_FirstName (ex. Reyes_Mark) in your local drive.
+2. Create a new project named LabExer5A. Set the project location to your own folder.
+3. The program shall:
+generate a random number from 1 to 50 for a player to guess;
+display a message that indicates whether the player's guess is correct, too low, or too high; and
+prompt the user to keep on guessing until the correct value is entered
+4. Create a try-catch structure that will handle two (2) exceptions. These are when the user inputs the following:
+a number that is out of range (1-50)
+a letter or any non-numeric character
+5. Prompt the user so that he can guess again if an exception is thrown.
+6. Display the number of total guesses.
+Note: An invalid input (when an exception is thrown) is not considered a valid guess or attempt.
+Sample Output:
+Guess a number from 1 to 50! 30
+Too high. Try again.
+15 Too high. Try again.
+10 Too high. Try again.
+5 Too low. Try again.
+qwerty
+Invalid input.
+Guess a number from 1 to 50!
+51
+Out of range.
+Guess a number from 1 to 50!
+7 Too low. Try again.
+8 Too lov. Try again.
+9 You got it in 7 attempt(s)|

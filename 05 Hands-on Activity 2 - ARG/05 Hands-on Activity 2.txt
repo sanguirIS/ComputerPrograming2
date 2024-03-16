@@ -1,0 +1,12 @@
+1. Create a folder named LastName_FirstName (ex. Reyes_Mark) in your local drive.
+2. Create a new project named LabExer5B. Set the project location to your own folder.
+3. The program shall:
+contain an array of 10 multiple choice questions with three (3) choices each and
+require the user to choose among A, B, or C;
+Note: Cases are ignored. Lowercase letters are acceptable (a, b, c).
+4. Create a try-catch structure to handle three (3) exceptions. These are when the user inputs the following:
+an invalid letter (not A, B, or C)
+a number or any special character
+blank (no answer)
+5. Prompt the user that he can answer again if any of the three (3) exceptions is thrown.
+6. Display the score.

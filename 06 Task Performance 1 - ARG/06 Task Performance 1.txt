@@ -1,0 +1,6 @@
+1. Create a folder named LastName_FirstName (ex. Reyes_Mark) in your local drive.
+2. Create a new project named TaskPerf6. Set the project location to your own folder.
+3. Write a program that will:
+a. Ask the user to select between two (2) options:
+Register: User shall input his desired username and password. These shall be saved in a text file named records.txt. Only alphanumeric characters are allowed.
+Login: User is asked to input a username and password. Validate using the text file created from the Register option. If both the username and password are correct, display the message "Successfully logged in", else, display "Incorrect username or password".

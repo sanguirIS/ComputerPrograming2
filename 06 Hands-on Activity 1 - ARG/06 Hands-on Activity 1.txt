@@ -1,0 +1,11 @@
+1. Create a folder named LastName_FirstName (ex. Reyes_Mark) in your local drive.
+2. Create a new project named LabExer6A. Set the project location to your own folder.
+3. Create a simple guessing game (similar to Hangman or Hangaroo). In this game, the user guesses
+a letter and then attempts to guess the word.
+4. Create a Notepad file named words.txt which will store any number of words each written per line.
+5. The Java program shall:
+randomly select a word from the list saved in words.txt;
+display a letter in which some of the letters are replaced by ?; for example, ED??A??ON (for EDUCATION);
+place the letter in the correct spot (or spots) in the word each time the user guesses a letter correctly;
+inform the user if the guessed letter is not in the word; and
+display a congratulatory message when the entire correct word has been deduced.
