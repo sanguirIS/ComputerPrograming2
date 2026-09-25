@@ -5,6 +5,7 @@
 </a></p>
 
 [![Java](https://img.shields.io/badge/language-Java-blue.svg)](https://www.java.com/)
+[![Security Policy](https://img.shields.io/badge/security-policy-brightgreen.svg)](SECURITY.md)
 [![GitHub repo](https://img.shields.io/github/stars/sanguirIS/ComputerPrograming2?style=social)](https://github.com/sanguirIS/ComputerPrograming2)
 
 ## 📚 Overview
@@ -31,7 +32,7 @@
 
 ### Prerequisites
 
-- [Java JDK 8+](https://adoptopenjdk.net/)
+- [Java JDK 8+](https://adoptium.net/)
 - Git (optional, for cloning)
 
 ### Running the Code
@@ -53,13 +54,18 @@
 
 ```
 ComputerPrograming2/
-├── Assignment1.java
-├── Assignment2.java
+├── 01 Hands-on Activity 1 - ARG/labexer1a.java
+├── 05 Hands-on Activity 1 - ARG/GuessingGame.java
+├── 08 Hands-on Activity 1 - ARG/StudentNumberValidation.java
+├── 10 Task Performance 1 - ARG/TriPrism.java
 ├── ...
-└── README.md
+├── LICENSE
+├── README.md
+└── SECURITY.md
 ```
 
-Each `.java` file is self-contained with comments and explanations.
+Each folder is one activity, and each `.java` file inside it is self-contained with comments
+and explanations.
 
 ---
 
@@ -67,6 +73,14 @@ Each `.java` file is self-contained with comments and explanations.
 
 Contributions, suggestions, and feedback are welcome!  
 If you find a bug or have an idea for improvement, feel free to open an issue or submit a pull request.
+
+---
+
+## 🔒 Security
+
+Please **do not** open a public issue for a security problem. Report it privately instead and
+see [SECURITY.md](SECURITY.md) for what's in scope, how to submit a report, and how quickly
+you can expect a response.
 
 ---
 
